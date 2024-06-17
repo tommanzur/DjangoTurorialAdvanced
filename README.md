@@ -2,6 +2,7 @@
 
 Django is a high-level Python web framework that promotes rapid development and clean, pragmatic design. This tutorial covers a broad range of topics to give you a thorough understanding of Django.
 
+# -> [Django Tutorial in for HTML Version](https://tommanzur.github.io/DjangoTurorialAdvanced/)
 ---
 
 ## Table of Contents
